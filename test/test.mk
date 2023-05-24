@@ -22,3 +22,9 @@
 .PHONY : test
 
 test :
+
+# Clean ################################################################
+
+.PHONY : clean-test
+
+clean-test :
