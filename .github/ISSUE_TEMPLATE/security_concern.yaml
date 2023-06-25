@@ -1,6 +1,5 @@
 name: Security concern
-about: Notify us about a potential security vulnerability
-title: ''
+description: Notify us about a potential security vulnerability
 labels: security
 assignees: RodentOfUnusualSize
 body:
