@@ -1,0 +1,13 @@
+name: Feature request
+description: Suggest an idea for this project
+labels: enhancement
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What new feature would you like to see?
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What other alternatives have you considered?
