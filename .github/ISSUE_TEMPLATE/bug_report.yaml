@@ -1,6 +1,5 @@
 name: Bug report
-about: Report broken or bizarre behaviour
-title: ''
+description: Report broken or bizarre behaviour
 labels: bug
 assignees: RodentOfUnusualSize
 body:
