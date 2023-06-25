@@ -23,7 +23,7 @@ body:
       required: true
 
   - type: input
-    id: make
+    id: python
     attributes:
       label: Python version
       description: "Which version of Python are you using?"
